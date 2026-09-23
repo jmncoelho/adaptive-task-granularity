@@ -4,7 +4,7 @@ title: "Adaptive Task Granularity for QoS-Aware Distributed Work Stealing in Het
 authors:
   - family-names: Coelho
     given-names: Jorge
-    affiliation: "ISEP / Instituto Politécnico do Porto"
+    affiliation: "ISEP / Universidade Técnica do Porto"
   - family-names: Nogueira
     given-names: Luís
     affiliation: "ISEP / IPP and LIACC, University of Porto"
