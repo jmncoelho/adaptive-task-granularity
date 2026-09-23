@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# scratch simulation outputs (keep only data/results_v3.json)
+/tmp_*.json
+smoke*.json
+results_gran*.json
+stats_*.md
+psi_trace.json
+# generated figures
+figures/*.tex
+figures/*.json
+gran_figures.tex
+gran_figs.json
+# LaTeX build
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.pdf

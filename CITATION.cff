@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the accompanying paper."
+title: "Adaptive Task Granularity for QoS-Aware Distributed Work Stealing in Heterogeneous IoT Clusters — simulator and dataset"
+authors:
+  - family-names: Coelho
+    given-names: Jorge
+    affiliation: "ISEP / Instituto Politécnico do Porto"
+  - family-names: Nogueira
+    given-names: Luís
+    affiliation: "ISEP / IPP and LIACC, University of Porto"
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/<your-username>/adaptive-task-granularity"
